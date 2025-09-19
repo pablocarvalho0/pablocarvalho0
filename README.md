@@ -1,6 +1,6 @@
 # Olá, eu sou o Pablo Carvalho! 👋
 
-Sou um estudante [Seu Curso/Área] apaixonado por tecnologia, com foco em Inteligência Artificial, Machine Learning e Desenvolvimento de Software. Atualmente estou explorando o desenvolvimento web com HTML, CSS e JavaScript.
+Sou um estudante do ITA, cursando Engenharia de Computação e apaixonado por tecnologia, com foco em Inteligência Artificial, Machine Learning e Desenvolvimento de Software. Atualmente estou explorando o desenvolvimento web com HTML, CSS e JavaScript.
 
 ---
 
@@ -38,6 +38,6 @@ Sou um estudante [Seu Curso/Área] apaixonado por tecnologia, com foco em Inteli
 
 ---
 
-📫 **Como me encontrar:**
-- **LinkedIn:** [seu-linkedin]
-- **Email:** [seu-email]
+📫 **Como me encontrar:**                                |
+| 📧 **Email** | `pablocnsantos2@gmail.com`                                               |
+| 💼 **LinkedIn** | [Pablo Carvalho](https://www.linkedin.com/in/pablo-carvalho-pcns8896/)              |
