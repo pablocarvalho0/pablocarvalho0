@@ -29,7 +29,7 @@ Sou um estudante do ITA, cursando Engenharia de Computação e apaixonado por te
 
 ### 💻 Meus Estudos de Desenvolvimento
 
-- **[meus-estudos-gerais](https://github.com/pablocarvalho0/meus-estudos-gerais)**: Repositório central com anotações e pequenos projetos de tecnologias que estou aprendendo, como:
+- **[meus-estudos](https://github.com/pablocarvalho0/meus-estudos)**: Repositório central com anotações e pequenos projetos de tecnologias que estou aprendendo, como:
   - `HTML5`
   - `CSS3`
   - `JavaScript`
