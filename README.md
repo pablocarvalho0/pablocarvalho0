@@ -33,6 +33,17 @@ Isso aparece nos repositórios abaixo, não é declaração de intenção:
 | **[claude-plugins](https://github.com/pablocarvalho0/claude-plugins)** | Plugins de workflow para Claude Code. O `frentes` retoma frentes de trabalho paralelas de onde pararam, cada uma com o contexto restaurado. | `Bash` `Claude Code` |
 | **[api-contatos-express](https://github.com/pablocarvalho0/api-contatos-express)** | API REST de contatos, feita para entender o modelo mental do Express — ciclo de vida da requisição, escopo de middleware, erro centralizado. O objetivo não é a API, é a arquitetura documentada. | `Node.js` `TypeScript` `Express 5` `Drizzle` `Postgres` |
 
+## Estudo
+
+O **[study-code](https://github.com/pablocarvalho0/study-code)** reúne a trilha de estudo
+em seis projetos, em ordem de evolução — do DOM puro ao backend com Postgres. O centro
+dele é um par: o mesmo domínio resolvido em TypeScript vanilla e depois em React, com as
+camadas de dados congeladas byte a byte entre os dois. Serve para tornar verificável, e
+não apenas afirmável, o que o framework faz — e se a fronteira entre dados e interface
+foi desenhada no lugar certo.
+
+Regra que vale para todos eles: nenhuma linha que eu não consiga explicar em voz alta.
+
 ## Contato
 
 - **E-mail:** pablocnsantos2@gmail.com
